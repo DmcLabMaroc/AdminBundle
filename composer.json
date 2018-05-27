@@ -1,7 +1,7 @@
 {
     "name": "dmclabmaroc/admin-bundle",
     "type": "bundle",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "minimum-stability": "stable",
     "description": "Administration Project",
     "keywords": [
@@ -12,7 +12,8 @@
             "type": "package",
             "package": {
                 "name": "dmclabmaroc/admin-bundle",
-                "version": "1.1.0"
+                "version": "1.1.1",
+                "url": "https://github.com/DmcLabMaroc/AdminBundle"
             }
         }
     ],"license": "MIT",
