@@ -2,6 +2,7 @@
     "name": "dmclabmaroc/admin-bundle",
     "type": "bundle",
     "version": "v1.0.0",
+    "minimum-stability": "stable",
     "description": "Administration Project",
     "keywords": [
         "Admin"
