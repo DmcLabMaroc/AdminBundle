@@ -23,11 +23,6 @@
             "email": "cyril.cointrel@dmc-lab.com"
         }
     ],
-    "extra": {
-        "branch-alias": {
-            "stable": "1.1.1-dev"
-        }
-    },
     "require": {
         "cocur/slugify": "^3.0",
         "doctrine/doctrine-cache-bundle": "^1.3",
