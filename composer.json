@@ -1,7 +1,7 @@
 {
     "name": "dmclabmaroc/admin-bundle",
     "type": "symfony-bundle",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Administration Project",
     "keywords": [
         "Admin"
@@ -11,20 +11,6 @@
         {
             "name": "Cyril Cointrel",
             "email": "cyril.cointrel@dmc-lab.com"
-        }
-    ],
-    "repositories": [
-        {
-            "type":"package",
-            "package": {
-                "name": "dmclabmaroc/admin",
-                "version":"stable",
-                "source": {
-                    "url": "https://github.com/DmcLabMaroc/AdminBundle",
-                    "type": "git",
-                    "reference":"stable"
-                }
-            }
         }
     ],
     "require": {
