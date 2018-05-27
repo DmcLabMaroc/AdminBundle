@@ -22,7 +22,7 @@
                 "source": {
                     "url": "https://github.com/DmcLabMaroc/AdminBundle",
                     "type": "git",
-                    "reference":"dev"
+                    "reference":"stable"
                 }
             }
         }
