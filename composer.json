@@ -1,7 +1,7 @@
 {
     "name": "dmclabmaroc/admin-bundle",
     "type": "bundle",
-    "version": "1.1.6",
+    "version": "1.1.7",
     "description": "Administration Project",
     "keywords": [
         "Admin"
@@ -40,9 +40,7 @@
         "symfony/webpack-encore-pack": "^1.0",
         "symfony/yaml": "^4.0",
         "twig/extensions": "^1.5",
-        "vich/uploader-bundle": "^1.7"
-    },
-    "require-dev": {
+        "vich/uploader-bundle": "^1.7",
         "doctrine/doctrine-fixtures-bundle": "^3.0"
     }
 }
