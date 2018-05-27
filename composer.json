@@ -7,7 +7,12 @@
     "keywords": [
         "Admin"
     ],
-    "license": "MIT",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/dmclabmaroc/adminbundle"
+        }
+    ],"license": "MIT",
     "authors": [
         {
             "name": "Cyril Cointrel",
