@@ -18,7 +18,7 @@
             "type":"package",
             "package": {
                 "name": "dmclabmaroc/admin",
-                "version":"dev",
+                "version":"stable",
                 "source": {
                     "url": "https://github.com/DmcLabMaroc/AdminBundle",
                     "type": "git",
