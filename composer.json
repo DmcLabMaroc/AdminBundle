@@ -11,11 +11,16 @@
             "type": "package",
             "package": {
                 "name": "dmclabmaroc/admin-bundle",
-                "version": "1.1.4",
-                "url": "https://github.com/DmcLabMaroc/AdminBundle"
+                "version": "dev-master",
+                "source": {
+                    "url": "git://github.com/dmclabmaroc/adminbundle.git",
+                    "type": "git",
+                    "reference": "master"
+                }
             }
         }
-    ],"license": "MIT",
+    ],
+    "license": "MIT",
     "authors": [
         {
             "name": "Cyril Cointrel",
